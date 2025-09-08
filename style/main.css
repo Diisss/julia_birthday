@@ -170,19 +170,16 @@ p {
 }
 
 .sweet-title {
-  font-family: "Pacifico", cursive;
   font-size: 26px;
   color: #6a0dad; /* красивый фиолетовый */
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 .sweet-confirm {
-  font-family: "Caveat", cursive;
   font-size: 20px;
 }
 
 .sweet-cancel {
-  font-family: "Caveat", cursive;
   font-size: 20px;
 }
 
@@ -191,7 +188,6 @@ html {
 }
 
 body {
-  font-family: "Poppins", sans-serif;
   margin: 0;
 }
 
@@ -583,5 +579,6 @@ body {
     font-weight: lighter;
   }
 }
+
 
 
