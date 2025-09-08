@@ -536,7 +536,7 @@ body {
   .hat {
     position: absolute;
     top: -150px; /* подними выше */
-    left: 80%;
+    left: 100%;
     transform: translateX(-50%);
     width: 120px; /* если надо увеличить */
   }
@@ -579,6 +579,7 @@ body {
     font-weight: lighter;
   }
 }
+
 
 
 
